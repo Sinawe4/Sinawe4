@@ -1,4 +1,4 @@
-# 열심히하자
+# 열심히 해서 보답하자.
 [![Sinawe4's github stats](https://github-readme-stats.vercel.app/api?username=Sinawe4)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
