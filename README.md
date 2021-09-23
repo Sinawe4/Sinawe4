@@ -1,6 +1,5 @@
 # 열심히 해서 보답하자.
-<img src = "https://img.shields.io/badge/BookStory-3DDC84?style=flat-square&logo=BookStack&logoColor=white&link=https://book-story.tistory.com/">
-
+**[BookStoryBlog](https://book-story.tistory.com/) | <aba1430@naver.com>**
 
 [![Sinawe4's github stats](https://github-readme-stats.vercel.app/api?username=Sinawe4)](https://github.com/anuraghazra/github-readme-stats)
 
