@@ -1,5 +1,5 @@
-# 책과 음악을 좋아하는 청소년 개발자입니다.
-**[BookStoryBlog](https://book-story.tistory.com/) | <aba1430@naver.com>**
+# 언제나 한걸음 나아가는 사람입니다.
+**<aba1430@naver.com>**
 
 [![Sinawe4's github stats](https://github-readme-stats.vercel.app/api?username=Sinawe4)](https://github.com/anuraghazra/github-readme-stats)
 
