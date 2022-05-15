@@ -1,5 +1,6 @@
 # 언제나 한걸음 나아가는 사람입니다.
-**<aba1430@naver.com>**
+성공한 개발자 보다는 성공한 **사람**이 되고싶습니다.  
+**<rhkd6303@gmail>**
 
 [![Sinawe4's github stats](https://github-readme-stats.vercel.app/api?username=Sinawe4)](https://github.com/anuraghazra/github-readme-stats)
 
